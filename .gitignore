@@ -1,0 +1,17 @@
+# Kubrick-derived material — training course, mock assessments, my answers to them.
+# Employer training content. Never commit, never push, public or private.
+kubrick/
+
+# Environments
+.venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
